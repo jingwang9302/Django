@@ -1,0 +1,18 @@
+body{
+    background: bisque;
+}
+
+div{
+    background-color: beige;
+    border: thick double red;
+}
+
+p{
+    color: olivedrab;
+}
+
+span{
+    background: gray;
+    color: beige;
+}
+
