@@ -1,0 +1,16 @@
+h1{
+    font-family: "Helvetica";
+    text-align: center;
+}
+p{
+   font-family: 'CopyrightHouseIndustriesNotLicensedforDesktopUse';
+   font-weight: normal;
+   font-style: normal;
+}
+body{
+    font-size: 16px;
+}
+
+#two{
+    font-size: 1em;
+}

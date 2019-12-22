@@ -1,0 +1,36 @@
+.firstdiv{
+    color: blue;
+}
+
+.seconddiv{
+    color: orange;
+}
+
+#singledout{
+    color: green;
+    text-decoration: line-through;
+}
+
+/*!* *for every thing on the page*!*/
+/**{*/
+/*    color: gray;*/
+/*}*/
+
+/*change every ul after h3*/
+h3 + ul{
+    border-color: purple;
+    border-width: 4px;
+    border-style: dotted;
+}
+
+li a{
+    color: red;
+}
+
+li a[href="www.facebook.com"]{
+    color: greenyellow;
+    border: 5px solid orange;
+}
+
+
+

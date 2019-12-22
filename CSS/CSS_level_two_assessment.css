@@ -1,0 +1,30 @@
+td{
+    background-color: black;
+    height: 200px;
+    width: 80px;
+    border: 2px solid white;
+}
+h1{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+.art{
+    margin: auto;
+}
+
+#one{
+    background-color: #273C2C;
+}
+#two{
+    background-color:#626868 ;
+}
+#three{
+    background-color:#939196 ;
+}
+
+#four{
+    background-color: #D3C1D2;
+}
+#five{
+    background-color:#FFE2FE ;
+}
